@@ -1,0 +1,164 @@
+{
+  "grid": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
+    [0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1],
+    [0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1],
+    [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1],
+    [1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1],
+    [1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1],
+    [1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1],
+    [0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0],
+    [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0],
+    [0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0],
+    [1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1],
+    [0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1],
+	[0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1],
+	[1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1]
+  ],
+  "clues": {
+    "across": [
+      {
+        "designation": "1-8",
+        "clue": "amerykański krokodyl"
+      },
+      {
+        "designation": "10-12",
+        "clue": "pustorożec z Tybetu (jak słowo zaczynające pytanie)"
+      },
+      {
+        "designation": "30-34",
+        "clue": "niewielka jaszczurka podzwrotnikowa, która potrafi wspinać się po gładkich ścianach"
+      },
+      {
+        "designation": "37-42",
+        "clue": "skoczny torbacz z Australii"
+      },
+      {
+        "designation": "45-48",
+        "clue": "udomowione zwierzę z bródką"
+      },
+      {
+        "designation": "56-58",
+        "clue": "syjamski, norweski lub syberyjski"
+      },
+      {
+        "designation": "66-69",
+        "clue": "największy i najcięższy ssak lądowy"
+      },
+      {
+        "designation": "73-77",
+        "clue": "kuzyn karpia o wrzecionowatym kształcie"
+      },
+      {
+        "designation": "82-84",
+        "clue": "nocny motyl"
+      },
+      {
+        "designation": "88-92",
+        "clue": "ptak z rodziny krukowatych, budujący gniazda w kominach"
+      },
+      {
+        "designation": "97-101",
+        "clue": "leci w kluczu, wydaje klangor"
+      },
+      {
+        "designation": "103-107",
+        "clue": "przedni lub bielik"
+      },
+      {
+        "designation": "113-115",
+        "clue": "żądlący owad w paski"
+      },
+      {
+        "designation": "121-125",
+        "clue": "morski - ryba o spłaszczonym ciele, raszpla"
+      },
+      {
+        "designation": "127-132",
+        "clue": "... szmaragdek - motyl (ułóż z liter słowa ślinka)"
+      },
+      {
+        "designation": "136-139",
+        "clue": "... piła lub ... młot"
+      },
+      {
+        "designation": "152-156",
+        "clue": "jedyne jadowite węże w Polsce"
+      },
+      {
+        "designation": "157-163",
+        "clue": "pawik, admirał lub pokrzywnik (motyl)"
+      }
+    ],
+    "down": [
+      {
+        "designation": "2-38",
+        "clue": "spokrewniona z wielbłądem, jej odmianą jest alpaka"
+      },
+      {
+        "designation": "4-100",
+        "clue": "ludowa nazwa kukułki"
+      },
+      {
+        "designation": "6-66",
+        "clue": "... bengalski - z rodziny dzikich kotów"
+      },
+      {
+        "designation": "8-32",
+        "clue": "europejski lub kanadyjski - skorupiak ze szczypcami"
+      },
+      {
+        "designation": "10-58",
+        "clue": "azjatycki krewniak psa, o długiej, gęstej sierści"
+      },
+      {
+        "designation": "12-84",
+        "clue": "... kalifornijska - duży ptak z rodziny kukułkowatych"
+      },
+      {
+        "designation": "33-69",
+        "clue": "drapieżna ryba słodkowodna"
+      },
+      {
+        "designation": "37-73",
+        "clue": "największy z rodziny krukowatych"
+      },
+      {
+        "designation": "56-104",
+        "clue": "owad masowo zjadany przez jaskółki i nietoperze"
+      },
+      {
+        "designation": "74-134",
+        "clue": "wielka jaszczurka nadrzewna, legwan"
+      },
+      {
+        "designation": "77-137",
+        "clue": "ssaki podobne do wołów, z długimi krętymi rogami"
+      },
+      {
+        "designation": "83-131",
+        "clue": "koczkodan lub orangutan"
+      },
+      {
+        "designation": "91-139",
+        "clue": "żywi się pędami eukaliptusa"
+      },
+      {
+        "designation": "124-160",
+        "clue": "ssak z rodziny delfinów, miecznik"
+      },
+      {
+        "designation": "130-166",
+        "clue": "ptak czczony w starożytnym Egipcie"
+      },
+      {
+        "designation": "132-168",
+        "clue": "ryje pod ziemią, pozostawia po sobie kopce"
+      },
+      {
+        "designation": "138-162",
+        "clue": "owad lub ptak, wydający charakterystyczne buczenie"
+      }
+    ]
+  }
+}
